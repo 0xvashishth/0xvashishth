@@ -1,8 +1,10 @@
-## Hi there, I'm Vashishth Patel - [Competetive Programmer][website] 👋
+### Hi there, I'm Vashishth Patel - [Competetive Programmer][website] 👋
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-740-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 <br/>
+
+---
 
 ## I'm a Computer Science Student !!
 
@@ -11,6 +13,8 @@
 - 🥅 2021 Goals: Contribute for opensource projects and build a project 📗 on new technologies 📡 
 - ⚡ Fun fact: I love to play badminton 🏸 and play drums 🎼
  
+---
+
 ### Connect with me:
 
 [<img align="left" alt="vashishth.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,6 +24,9 @@
 [<img align="left" alt="vashishth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
+---
 
 ### Languages and Tools:
 
@@ -39,6 +46,8 @@
 
 <br />
 <br />
+
+--
 
 <details>
   <summary>:zap: GitHub Stats</summary>
