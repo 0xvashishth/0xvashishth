@@ -44,13 +44,16 @@
 
    <p align="center">
     <a href="https://github.com/vasu-1/vasu-1">
-      <img alt="vasu-1 download" src="https://img.shields.io/github/downloads/vasu-1/vasu-1/total?label=Downloads&logo=github&style=flat-square">
+      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vasu-1/vasu-1/total?label=Downloads&logo=github">
     </a>
     <a href="https://github.com/vasu-1/vasu-1/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/vasu-1/vasu-1?color=0088ff" />
+      <img alt="GitHub issues" src="https://img.shields.io/github/issues/vasu-1/vasu-1?logo=github">
+    </a>
+    <a href="https://github.com/vasu-1/vasu-1/commits">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vasu-1/vasu-1?logo=github">
     </a>
     <a href="https://github.com/vasu-1/vasu-1/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/vasu-1?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/vasu-1?logo=github">
     </a>
     </p>
 
