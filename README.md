@@ -28,7 +28,7 @@
 ---
 
 ## Follow Me On Tech Platforms
-<img src="https://img.icons8.com/windows/64/000000/hackerrank.png"/>
+<img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>
 
 ---
 
