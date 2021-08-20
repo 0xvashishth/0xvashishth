@@ -1,15 +1,15 @@
-### Hi there, I'm Vashishth Patel - [CP Programmer][website] 👋
+### Hi there, I'm Vashishth Patel - [Competetive Programmer][website] 👋
 
 [![Website](https://shields.io/badge/Vashishth.epizy.com-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-740-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
+<br/>
+## I'm a Computer Science Student !!
 
-## I'm a Student and Developer !!
-
-- 🔭 I am looking for an internship in software development
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play badminton and play drums 🤣
-
+- 🔭 I am looking for an internship in software development 🖥️
+- 🌱 I like to work with new people 🧑‍🤝‍🧑
+- 🥅 2021 Goals: Contribute for opensource projects and build a project 📗 on new technologies 📡 
+- ⚡ Fun fact: I love to play badminton 🏸 and play drums 🪘
+ 
 ### Connect with me:
 
 [<img align="left" alt="vashishth.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
