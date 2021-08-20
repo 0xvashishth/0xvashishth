@@ -29,9 +29,9 @@
 
 ## Follow Me On Tech Platforms
 [<img src="https://img.icons8.com/windows/40/000000/hackerrank.png"/>][hackerrank]
-
 [<img src="https://img.icons8.com/ios/32/000000/chef-hat.png"/>][codechef]
 [][askubuntu]
+
 ---
 
 ## Languages and Tools:
