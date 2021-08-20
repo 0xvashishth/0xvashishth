@@ -42,14 +42,14 @@
   <summary>:zap: GitHub Stats</summary>
 
    <p align="center">
-    <a href="https://github.com/vasu-1/github-readme-stats/actions">
+    <a href="https://github.com/vasu-1/vasu-1/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/vasu-1/github-readme-stats/issues">
+    <a href="https://github.com/vasu-1/vasu-1/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/vasu-1/vasu-1?color=0088ff" />
     </a>
-    <a href="https://github.com/vasu-1/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/vasu-1/vasu-1/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/vasu-1?color=0088ff" />
     </a>
     </p>
 
