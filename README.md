@@ -1,7 +1,7 @@
 ### Hi there, I'm Vashishth Patel - [CP Programmer][website] 👋
 
 [![Website](https://img.shields.io/badge/Vashishth%20Patel-Portfolio-brightgreen)](https://vashishth.epizy.com/?i=1)
-[![Linkedin Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Linkedin Follow](https://img.shields.io/badge/Vashishth%20Patel--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
