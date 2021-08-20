@@ -1,7 +1,7 @@
 ### Hi there, I'm Vashishth Patel - [CP Programmer][website] 👋
 
-[![Website](https://img.shields.io/badge/Vashishth%20Patel-Portfolio-brightgreen)](https://vashishth.epizy.com/?i=1)
-[![Linkedin Follow](https://img.shields.io/badge/Vashishth%20Patel--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
+[![Website](https://shields.io/badge/Vashishth.epizy.com-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
+[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-740-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 
 ## I'm a Student and Developer !!
 
@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vashishth.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vashishth | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="vashishth | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="vashishth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vashishth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -37,49 +37,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
-- [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
-- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
