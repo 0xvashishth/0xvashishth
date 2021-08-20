@@ -30,7 +30,7 @@
 ## Follow Me On Tech Platforms
 [<img src="https://img.icons8.com/windows/40/000000/hackerrank.png"/>][hackerrank]
 [<img src="https://img.icons8.com/windows/40/000000/chef-hat.png"/>][codechef]
-[<img src="https://files.quickmediasolutions.com/so-images/askubuntu.svg" alt="askubuntu" height=32px width=32px  />][askubuntu]
+[<img src="https://files.quickmediasolutions.com/so-images/askubuntu.svg" alt="askubuntu" height=40px width=40px  />][askubuntu]
 
 ---
 
