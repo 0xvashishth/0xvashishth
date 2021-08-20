@@ -1,6 +1,6 @@
 ### Hi there, I'm Vashishth Patel - [Competetive Programmer][website] 👋
 
-[![Website](https://shields.io/badge/Vashishth.epizy.com-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
+[![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-740-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 <br/>
 ## I'm a Computer Science Student !!
@@ -43,8 +43,8 @@
   <summary>:zap: GitHub Stats</summary>
 
    <p align="center">
-    <a href="https://github.com/vasu-1/vasu-1/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/vasu-1/vasu-1">
+      <img alt="vasu-1 download" src="https://img.shields.io/github/downloads/vasu-1/vasu-1/total?label=Downloads&logo=github&style=flat-square">
     </a>
     <a href="https://github.com/vasu-1/vasu-1/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/vasu-1/vasu-1?color=0088ff" />
