@@ -58,16 +58,16 @@
   <summary>:zap: GitHub Stats</summary>
 
    <p align="center">
-    <a href="https://github.com/vasu-1">
+    <a href="https://github.com/vasu-1/vasu-1">
       <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vasu-1/vasu-1/total?label=Downloads&logo=github">
     </a>
-    <a href="https://github.com/vasu-1/issues">
+    <a href="https://github.com/vasu-1/vasu-1/issues">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues/vasu-1/vasu-1?logo=github">
     </a>
-    <a href="https://github.com/vasu-1/commits">
+    <a href="https://github.com/vasu-1/vasu-1/commits">
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vasu-1/vasu-1?logo=github">
     </a>
-    <a href="https://github.com/vasu-1/pulls">
+    <a href="https://github.com/vasu-1/vasu-1/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/vasu-1?logo=github">
     </a>
     </p>
