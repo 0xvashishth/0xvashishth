@@ -78,5 +78,5 @@
 [instagram]: https://www.instagram.com/vashishthchaudhary/
 [linkedin]: https://www.linkedin.com/in/vashishth-patel-312a52204/
 [askubuntu]: https://askubuntu.com/users/1357742/vashishth-patel
+[codechef]: https://www.codechef.com/users/vashishth48
 [hackerrank]: 
-[codechef]: 
