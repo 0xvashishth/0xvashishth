@@ -6,7 +6,7 @@
 
 ---
 
-## I'm a Computer Science Student At @DDIT !!
+### I'm a Computer Science Student At @DDIT !!
 
 - 🔭 Looking for an internship in software development 🖥️
 - 🌱 Like to work with new people 🧑‍🤝‍🧑
@@ -14,8 +14,9 @@
 - ⚡ Fun fact: I love to play badminton 🏸 and play drums 🎼
 <br/>
 
+---
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="vashishth.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vashishth | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,8 +25,9 @@
 [<img align="left" alt="vashishth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
+---
 
-## Follow Me On Tech Platforms
+### Follow Me On Tech Platforms
 
 [<img src="https://img.icons8.com/windows/40/000000/hackerrank.png"/>][hackerrank]
 [<img src="https://img.icons8.com/windows/40/000000/chef-hat.png"/>][codechef]
@@ -33,8 +35,9 @@
 [<img src="https://img.icons8.com/ios-glyphs/40/000000/github.png"/>][github]
 <br />
 
+---
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
@@ -47,9 +50,9 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
 <br />
 
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
