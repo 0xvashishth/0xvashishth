@@ -31,6 +31,7 @@
 [<img src="https://img.icons8.com/windows/40/000000/hackerrank.png"/>][hackerrank]
 [<img src="https://img.icons8.com/windows/40/000000/chef-hat.png"/>][codechef]
 [<img src="https://files.quickmediasolutions.com/so-images/askubuntu.svg" alt="askubuntu" height=40px width=40px  />][askubuntu]
+[<img src="https://img.icons8.com/ios-glyphs/40/000000/github.png"/>][github]
 
 ---
 
@@ -81,3 +82,4 @@
 [askubuntu]: https://askubuntu.com/users/1357742/vashishth-patel
 [codechef]: https://www.codechef.com/users/vashishth48
 [hackerrank]: https://www.hackerrank.com/vashishthchaudh1
+[github]: https://www.github.com/vasu-1
