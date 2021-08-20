@@ -1,12 +1,13 @@
-### Hi there, I'm Vashishth Patel - [Competetive Programmer][website] 👋
+## Hi there, I'm Vashishth Patel - [Competetive Programmer][website] 👋
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-740-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 <br/>
+
 ## I'm a Computer Science Student !!
 
-- 🔭 I am looking for an internship in software development 🖥️
-- 🌱 I like to work with new people 🧑‍🤝‍🧑
+- 🔭 Looking for an internship in software development 🖥️
+- 🌱 Like to work with new people 🧑‍🤝‍🧑
 - 🥅 2021 Goals: Contribute for opensource projects and build a project 📗 on new technologies 📡 
 - ⚡ Fun fact: I love to play badminton 🏸 and play drums 🎼
  
