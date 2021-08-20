@@ -29,7 +29,7 @@
 
 ## Follow Me On Tech Platforms
 [<img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>][hackerrank]
-[<img src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png"/>][codechef]
+[<img src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png" height="32px" width="32px" />][codechef]
 [][askubuntu]
 ---
 
