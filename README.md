@@ -1,7 +1,7 @@
 ## Hi there, I'm Vashishth Patel - [Competitive Programmer][website] 👋
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
-[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-809 Followers-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
+[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-809-Followers-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 <br/>
 
 ---
