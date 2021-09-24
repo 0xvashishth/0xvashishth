@@ -20,7 +20,6 @@
 
 - 🖥️ currently learning **Web Development.**
 
-<br/>
 
 ---
 
