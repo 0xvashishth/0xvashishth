@@ -54,26 +54,21 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-   <p align="center">
-    <a href="https://github.com/vasu-1/vasu-1">
-      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vasu-1/vasu-1/total?label=Downloads&logo=github">
-    </a>
-    <a href="https://github.com/vasu-1/vasu-1/issues">
-      <img alt="GitHub issues" src="https://img.shields.io/github/issues/vasu-1/vasu-1?logo=github">
-    </a>
-    <a href="https://github.com/vasu-1/vasu-1/commits">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vasu-1/vasu-1?logo=github">
-    </a>
-    <a href="https://github.com/vasu-1/vasu-1/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/vasu-1?logo=github">
-    </a>
-    </p>
-
-</details>
+<table>
+  <tr>
+    <td align="center">
+        <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-1&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="170px" width="360px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
+    </td>
+    <td align="center">
+        <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=vasu-1&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
+    </td>
+  </tr>
+</table>
 
 [website]: https://vashishth.epizy.com/?i=1
 [facebook]: https://www.facebook.com/vashishthchaudhary/
