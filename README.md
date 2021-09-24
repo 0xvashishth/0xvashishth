@@ -1,17 +1,25 @@
 ## Hi there, I'm Vashishth Patel - [Competitive Programmer][website] 👋
 
-[![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vashishth.epizy.com/?i=1)
-[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-809-green?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
+[![Website](https://shields.io/badge/Portfolio-up-blue?style=flat-square)](https://vashishth.epizy.com/?i=1)
+[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-809-green?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
+![](https://komarev.com/ghpvc/?username=vasu-1&style=flat-square)
 <br/>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif">
 
-### I'm a Computer Science Student At @DDIT !!
+### Computer Science Student At @DDIT
 
-- 🔭 Looking for an internship in software development 🖥️
-- 🌱 Like to work with new people 🧑‍🤝‍🧑
-- 🥅 2021 Goals: Contribute for opensource projects and build a project 📗 on new technologies 📡 
-- ⚡ Fun fact: I love to play badminton 🏸 and play drums 🎼
+- 🔭 Looking for an internship in **Software Development.**
+
+- 🌱 Like to work with **New People🧑‍🤝‍🧑.**
+
+- 🥅 2021 Goals: Contribute for **opensource projects.**
+
+- 👯 I’m mainly into **Data strucutres and algorithm.**
+
+- 🖥️ currently learning **Web Development.**
+
 <br/>
 
 ---
