@@ -1,7 +1,5 @@
-# CLASSES AND OBJECT VIDEO
-<br>
-<iframe width="800" height="500"
-src="https://drive.google.com/file/d/1vIXvP5JasjJ-JSZmAKNxWdgIHKKi9iDL/preview" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="aaa.mp4" type="video/mp4">
+  <source src="aaa.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
