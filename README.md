@@ -10,15 +10,11 @@
 
 ### Computer Science Student At @DDIT
 
-- 🔭 Looking for an internship in **Software Development.**
-
-- 🌱 Like to work with **New People🧑‍🤝‍🧑.**
-
-- 🥅 2021 Goals: Contribute for **opensource projects.**
-
-- 👯 I’m mainly into **Data strucutres and algorithm.**
-
-- 🖥️ currently learning **Web Development.**
+- 🔭 Looking for an internship in Software Development.
+- 🌱 Like to work with New People🧑‍🤝‍🧑.
+- 🥅 2021 Goals: Contribute to open-source projects.
+- 👯 I’m mainly into Data structures and algorithms.
+- 🖥️ currently learning Web Development.
 
 
 ---
