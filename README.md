@@ -6,7 +6,7 @@
 <br/>
 
 ---
-<img align="right" alt="Coding" width="300px" height="200px" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif">
+<img align="right" alt="Coding" width="300px" height="170px" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif">
 
 ### Computer Science Student At @DDIT
 
