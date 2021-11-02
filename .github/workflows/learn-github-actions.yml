@@ -10,4 +10,4 @@ jobs:
           node-version: '14'
       - run: npm install -g bats
       - run: bats -v
-      - run: g++ https://github.com/vasu-1/C-CPP/blob/main/test.cpp
+      - run: g++ https://github.com/vasu-1/vasu-1/blob/main/test.cpp
