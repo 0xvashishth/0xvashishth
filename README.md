@@ -16,7 +16,6 @@
 - 👯 I’m mainly into Data structures and algorithms.
 - 🖥️ currently learning Web Development.
 
-
 ---
 
 ### Recent Activities
