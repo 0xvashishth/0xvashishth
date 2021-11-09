@@ -1,7 +1,7 @@
 ## Hi there, I'm Vashishth Patel - [Competitive Programmer][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=flat-square)](https://vashishth.epizy.com/?i=1)
-[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-921-green?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
+[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-953-green?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 ![](https://komarev.com/ghpvc/?username=vasu-1&style=flat-square)
 <br/>
 
