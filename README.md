@@ -1,5 +1,3 @@
-<center>
-
 ## Hi there, I'm Vashishth Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=flat-square)](https://vashishth.epizy.com/?i=1)
@@ -74,12 +72,6 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </p>
-<br />
-<br />
-<br />
-
----
-
 [website]: https://vashishth.epizy.com/?i=1
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
 [youtube]: https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g
@@ -89,5 +81,3 @@
 [codechef]: https://www.codechef.com/users/vashishth48
 [hackerrank]: https://www.hackerrank.com/vashishthchaudh1
 [github]: https://www.github.com/vasu-1
-  
-</center>
