@@ -37,9 +37,12 @@
     </td>
   </tr>
     <tr>
-    <td colspan="2" align="center">
+    <td align="center">
         <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-1&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="170px" width="360px">
     </td>
+      <td>
+        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vasu-1&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" height="170px" width="360px">
+      </td>
   </tr>
 </table>
 
