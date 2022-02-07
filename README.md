@@ -21,7 +21,7 @@
 
 ### Github Stats
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
