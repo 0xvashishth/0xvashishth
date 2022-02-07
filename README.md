@@ -19,21 +19,15 @@
 
 ---
 
-### Recent Activities
-
-<img src="https://activity-graph.herokuapp.com/graph?username=vasu-1&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
-
----
-
 ### Github Stats
 
 <table>
   <tr>
     <td align="center">
-      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
+      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
     </td>
     <td align="center">
-        <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=vasu-1&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
+        <img src ="https://github-readme-streak-stats.herokuapp.com?user=vasu-1&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
     </td>
   </tr>
     <tr>
@@ -41,7 +35,7 @@
         <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-1&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="170px" width="360px">
     </td>
       <td>
-        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vasu-1&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" height="170px" width="360px">
+        <img src="https://activity-graph.herokuapp.com/graph?username=vasu-1&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" height="170px" width="360px">
       </td>
   </tr>
 </table>
