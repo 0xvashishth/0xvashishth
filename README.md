@@ -1,3 +1,4 @@
+<center>
 ## Hi there, I'm Vashishth Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=flat-square)](https://vashishth.epizy.com/?i=1)
@@ -87,3 +88,4 @@
 [codechef]: https://www.codechef.com/users/vashishth48
 [hackerrank]: https://www.hackerrank.com/vashishthchaudh1
 [github]: https://www.github.com/vasu-1
+</center>
