@@ -3,7 +3,6 @@
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=flat-square)](https://vasu-1.github.io/)
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-1328-green?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 ![](https://komarev.com/ghpvc/?username=vasu-1&style=flat-square)
-<br/>
 
 ---
 
@@ -42,7 +41,6 @@
 [<img align="left" alt="vashishth | Facebook"  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
 [<img align="left" alt="vashishth | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-<br />
 
 ---
 
@@ -51,8 +49,6 @@
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
 [<img src="https://img.shields.io/badge/-Askubuntu-FE7A16?style=for-the-badge&logo=ask-ubuntu&logoColor=white" alt="askubuntu"/>][askubuntu]
-
-<br />
 
 ---
 
@@ -83,8 +79,6 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-</br>
 
 [website]: https://vasu-1.github.io/
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
