@@ -37,11 +37,11 @@
 
 ### Connect with me
 
-[<img align="left" alt="vashishth.epizy.com"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
+[<img align="left" alt="vasu-1.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
 [<img align="left" alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img align="left" alt="vashishth | YouTube"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vashishth | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vashishth | Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vashishth | Facebook"  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
+[<img align="left" alt="vashishth | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 <br />
 
 ---
@@ -86,7 +86,7 @@
 
 </br>
 
-[website]: https://vashishth.epizy.com/?i=1
+[website]: https://vasu-1.github.io/
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
 [youtube]: https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g
 [instagram]: https://www.instagram.com/vashishthchaudhary/
