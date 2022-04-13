@@ -54,8 +54,6 @@
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
 [<img src="https://img.shields.io/badge/-Askubuntu-FE7A16?style=for-the-badge&logo=ask-ubuntu&logoColor=white" alt="askubuntu"/>][askubuntu]
 
-</br>
-
 ---
 
 ### Competencies
