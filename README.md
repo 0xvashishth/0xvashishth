@@ -48,7 +48,7 @@
 
 ### Follow Me On Tech Platforms
 
-[<img src="https://img.icons8.com/windows/40/000000/hackerrank.png"/>][hackerrank]
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
 [<img src="https://img.icons8.com/windows/40/000000/chef-hat.png"/>][codechef]
 [<img src="https://files.quickmediasolutions.com/so-images/askubuntu.svg" alt="askubuntu" height=40px width=40px  />][askubuntu]
 [<img src="https://img.icons8.com/ios-glyphs/40/000000/github.png"/>][github]
