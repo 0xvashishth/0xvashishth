@@ -37,11 +37,11 @@
 
 ### Connect with me
 
-[<img align="left" alt="vashishth.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vashishth | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="vashishth | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vashishth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vashishth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vashishth.epizy.com"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
+[<img align="left" alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img align="left" alt="vashishth | YouTube"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="vashishth | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vashishth | Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ---
@@ -50,7 +50,7 @@
 
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
-[<img src="https://img.shields.io/badge/-Askubuntu-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="askubuntu" height=40px width=40px  />][askubuntu]
+[<img src="https://img.shields.io/badge/-Askubuntu-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="askubuntu"/>][askubuntu]
 
 <br />
 
