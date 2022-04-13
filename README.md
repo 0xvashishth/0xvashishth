@@ -13,7 +13,7 @@
 
 ---
 
-### Github Stats
+## Github Stats
 
 <table align="center">
   <tr>
@@ -36,19 +36,17 @@
 
 <br>
 
-### Connect with me
+## Connect with me
 
-[<img align="left" alt="vasu-1.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
-[<img align="left" alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img align="left" alt="vashishth | Facebook"  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
-[<img align="left" alt="vashishth | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-
-<br>
+[<img alt="vasu-1.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
+[<img alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img alt="vashishth | Facebook"  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
+[<img alt="vashishth | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 ---
 
-### Follow Me On Tech Platforms
+## Follow Me On Tech Platforms
 
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
@@ -58,7 +56,7 @@
 
 ---
 
-### Competencies
+## Competencies
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
