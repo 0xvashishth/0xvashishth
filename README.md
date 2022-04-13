@@ -50,7 +50,7 @@
 
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
-[<img src="https://files.quickmediasolutions.com/so-images/askubuntu.svg" alt="askubuntu" height=40px width=40px  />][askubuntu]
+[<img src="https://img.shields.io/badge/-Askubuntu-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="askubuntu" height=40px width=40px  />][askubuntu]
 
 <br />
 
