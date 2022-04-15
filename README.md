@@ -91,12 +91,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 <details>
-  <summary> <b>  :maple_leaf: Website Performance </b></summary>
+  <summary> <b> Website Performance </b></summary>
 <img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </details>
 
 <details>
-<summary> <b>  :trophy: GitHub Achievements </b></summary>
+<summary> <b> GitHub Achievements </b></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=vasu-1&theme=monokai">
 </details>
 
