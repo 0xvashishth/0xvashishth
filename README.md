@@ -50,7 +50,7 @@
 
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
-[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/>][leetcode]
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>][leetcode]
 [<img src="https://img.shields.io/badge/-Askubuntu-FE7A16?style=for-the-badge&logo=ask-ubuntu&logoColor=white" alt="askubuntu"/>][askubuntu]
 [<img src="https://img.shields.io/badge/-Qwicklabs-F9DC3e?style=for-the-badge&logo=qwiklabs&logoColor=white" alt="qwicklabs"/>][qwicklabs]
 [<img src="https://img.shields.io/badge/-Devfolio-0078D7?style=for-the-badge&logo=devfolio&logoColor=white" alt="devfolio"/>][devfolio]
