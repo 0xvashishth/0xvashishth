@@ -2,7 +2,7 @@
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vasu-1.github.io/)
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-1394-green?logo=linkedin&style=for-the-badge )](https://www.linkedin.com/in/vashishth-patel-312a52204/)
-![](https://komarev.com/ghpvc/?username=vasu-1&style=flat-square)
+![](https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge)
 
 ---
 
