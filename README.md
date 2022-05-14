@@ -1,7 +1,7 @@
 ## Hi there, I'm Vashishth Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Website](https://shields.io/badge/Portfolio-up-blue?style=flat-square)](https://vasu-1.github.io/)
-[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-1394-green?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vashishth-patel-312a52204/)
+[![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vasu-1.github.io/)
+[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-1394-green?logo=linkedin&style=for-the-badge )](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 ![](https://komarev.com/ghpvc/?username=vasu-1&style=flat-square)
 
 ---
@@ -41,8 +41,8 @@
 [<img alt="vasu-1.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
 [<img alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img alt="vashishth | Facebook"  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
-[<img alt="vashishth | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[![Twitter Follow](https://img.shields.io/twitter/follow/VashishthPatel_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FsachanAK6121&screen_name=VashishthPatel_)
 
 ---
 
