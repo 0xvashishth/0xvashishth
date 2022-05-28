@@ -94,6 +94,13 @@
 <details>
 <summary> <b> :zap: Recent Activity </b></summary>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#345](https://github.com/vasu-1/CalcHub/pull/345) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❗️ Closed issue [#72](https://github.com/vasu-1/CalcHub/issues/72) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🗣 Commented on [#345](https://github.com/vasu-1/CalcHub/issues/345) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❌ Reopened PR [#345](https://github.com/vasu-1/CalcHub/pull/345) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. 🗣 Commented on [#345](https://github.com/vasu-1/CalcHub/issues/345) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. ❌ Closed PR [#345](https://github.com/vasu-1/CalcHub/pull/345) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+<!--END_SECTION:activity-->
 
 </details>
 
