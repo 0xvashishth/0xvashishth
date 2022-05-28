@@ -93,6 +93,7 @@
 
 <details>
 <summary> <b> :zap: Recent Activity </b></summary>
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#345](https://github.com/vasu-1/CalcHub/pull/345) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 2. ❗️ Closed issue [#72](https://github.com/vasu-1/CalcHub/issues/72) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
