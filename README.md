@@ -92,13 +92,19 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 <details>
-  <summary> <b> Website Performance </b></summary>
-<img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
+<summary> <b> :zap: Recent Activity </b></summary>
+<!--START_SECTION:activity-->
+
 </details>
 
 <details>
 <summary> <b> GitHub Achievements </b></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=vasu-1&theme=monokai">
+</details>
+
+<details>
+<summary> <b> Website Performance </b></summary>
+<img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </details>
 
 
