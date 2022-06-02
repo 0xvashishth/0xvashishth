@@ -1,4 +1,4 @@
-## Hi there, I'm Vashishth Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Vashishth Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vasu-1.github.io/)
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-1444-green?logo=linkedin&style=for-the-badge )](https://www.linkedin.com/in/vashishth-patel-312a52204/)
