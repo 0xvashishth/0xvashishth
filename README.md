@@ -102,12 +102,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#266](https://github.com/github-craftwork/start-here/pull/266) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-2. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-3. 🎉 Merged PR [#302](https://github.com/vasu-1/CalcHub/pull/302) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🎉 Merged PR [#309](https://github.com/vasu-1/CalcHub/pull/309) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. ❗️ Closed issue [#292](https://github.com/vasu-1/CalcHub/issues/292) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 🗣 Commented on [#309](https://github.com/vasu-1/CalcHub/issues/309) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. ❗️ Closed issue [#343](https://github.com/vasu-1/CalcHub/issues/343) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❗️ Closed issue [#321](https://github.com/vasu-1/CalcHub/issues/321) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. ❗️ Closed issue [#312](https://github.com/vasu-1/CalcHub/issues/312) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❗️ Closed issue [#311](https://github.com/vasu-1/CalcHub/issues/311) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. ❗️ Closed issue [#305](https://github.com/vasu-1/CalcHub/issues/305) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. ❗️ Closed issue [#301](https://github.com/vasu-1/CalcHub/issues/301) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
