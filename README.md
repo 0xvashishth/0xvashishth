@@ -102,12 +102,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#343](https://github.com/vasu-1/CalcHub/issues/343) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. ❗️ Closed issue [#321](https://github.com/vasu-1/CalcHub/issues/321) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. ❗️ Closed issue [#312](https://github.com/vasu-1/CalcHub/issues/312) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. ❗️ Closed issue [#311](https://github.com/vasu-1/CalcHub/issues/311) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. ❗️ Closed issue [#305](https://github.com/vasu-1/CalcHub/issues/305) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. ❗️ Closed issue [#301](https://github.com/vasu-1/CalcHub/issues/301) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. ❗️ Reopened issue [#84](https://github.com/vasu-1/CalcHub/issues/84) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❗️ Closed issue [#66](https://github.com/vasu-1/CalcHub/issues/66) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. ❗️ Closed issue [#63](https://github.com/vasu-1/CalcHub/issues/63) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❗️ Closed issue [#42](https://github.com/vasu-1/CalcHub/issues/42) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. ❗️ Closed issue [#53](https://github.com/vasu-1/CalcHub/issues/53) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. ❗️ Closed issue [#60](https://github.com/vasu-1/CalcHub/issues/60) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
