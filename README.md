@@ -13,7 +13,8 @@
 
 ---
 
-## Github Stats
+<details>
+  <summary> <b> 📊 GitHub stats </b></summary>
 
 <table align="center">
   <tr>
@@ -33,8 +34,7 @@
       </td>
   </tr>
 </table>
-
----
+</details>
 
 <details>
   <summary> <b> 🔗 Connect With Me </b></summary>
