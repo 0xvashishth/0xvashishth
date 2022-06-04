@@ -34,9 +34,10 @@
   </tr>
 </table>
 
-<br>
+---
 
-## Connect with me
+<details>
+  <summary> <b> 🔗 Connect With Me </b></summary>
 
 [<img alt="vasu-1.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
 [<img alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
@@ -44,9 +45,10 @@
 [<img alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/VashishthPatel_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FsachanAK6121&screen_name=VashishthPatel_)
 
----
+  </details>
 
-## Follow Me On Tech Platforms
+<details>
+  <summary> <b> 👨‍💻 Follow Me On Tech Platforms </b></summary>
 
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
@@ -55,9 +57,10 @@
 [<img src="https://img.shields.io/badge/-Qwicklabs-F9DC3e?style=for-the-badge&logo=qwiklabs&logoColor=white" alt="qwicklabs"/>][qwicklabs]
 [<img src="https://img.shields.io/badge/-Devfolio-0078D7?style=for-the-badge&logo=devfolio&logoColor=white" alt="devfolio"/>][devfolio]
 
----
-
-## Competencies
+</details>
+  
+<details>
+  <summary> <b> 💻 Competencies </b></summary>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -91,6 +94,8 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
+ </details>
+  
 <details>
 <summary> <b> :zap: Github 3D Activity </b></summary>
 
@@ -113,12 +118,12 @@
 </details>
 
 <details>
-<summary> <b> GitHub Achievements </b></summary>
+<summary> <b> 🏆 GitHub Achievements </b></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=vasu-1&theme=monokai">
 </details>
 
 <details>
-<summary> <b> Website Performance </b></summary>
+<summary> <b> 🌐 Website Performance </b></summary>
 <img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </details>
 
