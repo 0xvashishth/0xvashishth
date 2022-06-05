@@ -4,14 +4,14 @@
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-1444-green?logo=linkedin&style=for-the-badge )](https://www.linkedin.com/in/vashishth-patel-312a52204/)
 ![](https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge)
 
----
-
+<details>
+  <summary> <b> 🏃 Current Status </b></summary>
+  
 - 🔭 Looking for an internship in Software Development.
 - 🌱 Like to work with New People🧑‍🤝‍🧑.
 - 👯 I’m mainly into Data structures and algorithms.
 - 🖥️ currently learning Web Development & Application Development.
-
----
+</details>
 
 <details>
   <summary> <b> 📊 GitHub stats </b></summary>
