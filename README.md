@@ -107,12 +107,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#355](https://github.com/vasu-1/CalcHub/pull/355) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. 💪 Opened PR [#22](https://github.com/j-imy/hackathon/pull/22) in [j-imy/hackathon](https://github.com/j-imy/hackathon)
-3. 💪 Opened PR [#21](https://github.com/j-imy/hackathon/pull/21) in [j-imy/hackathon](https://github.com/j-imy/hackathon)
-4. 🎉 Merged PR [#5](https://github.com/developer-student-clubs/duhacks/pull/5) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
-5. 💪 Opened PR [#5](https://github.com/developer-student-clubs/duhacks/pull/5) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
-6. 🗣 Commented on [#313](https://github.com/vasu-1/CalcHub/issues/313) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. 🗣 Commented on [#354](https://github.com/vasu-1/CalcHub/issues/354) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❌ Closed PR [#355](https://github.com/vasu-1/CalcHub/pull/355) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 💪 Opened PR [#22](https://github.com/j-imy/hackathon/pull/22) in [j-imy/hackathon](https://github.com/j-imy/hackathon)
+4. 💪 Opened PR [#21](https://github.com/j-imy/hackathon/pull/21) in [j-imy/hackathon](https://github.com/j-imy/hackathon)
+5. 🎉 Merged PR [#5](https://github.com/developer-student-clubs/duhacks/pull/5) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+6. 💪 Opened PR [#5](https://github.com/developer-student-clubs/duhacks/pull/5) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
 <!--END_SECTION:activity-->
 
 </details>
