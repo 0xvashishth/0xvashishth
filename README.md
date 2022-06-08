@@ -107,12 +107,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#285](https://github.com/vasu-1/CalcHub/issues/285) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. ❗️ Closed issue [#353](https://github.com/vasu-1/CalcHub/issues/353) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 🎉 Merged PR [#354](https://github.com/vasu-1/CalcHub/pull/354) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🗣 Commented on [#354](https://github.com/vasu-1/CalcHub/issues/354) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. ❌ Closed PR [#355](https://github.com/vasu-1/CalcHub/pull/355) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 💪 Opened PR [#22](https://github.com/j-imy/hackathon/pull/22) in [j-imy/hackathon](https://github.com/j-imy/hackathon)
+1. 🗣 Commented on [#358](https://github.com/vasu-1/CalcHub/issues/358) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❗️ Closed issue [#285](https://github.com/vasu-1/CalcHub/issues/285) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. ❗️ Closed issue [#353](https://github.com/vasu-1/CalcHub/issues/353) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. 🎉 Merged PR [#354](https://github.com/vasu-1/CalcHub/pull/354) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. 🗣 Commented on [#354](https://github.com/vasu-1/CalcHub/issues/354) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. ❌ Closed PR [#355](https://github.com/vasu-1/CalcHub/pull/355) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
