@@ -107,12 +107,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/vasu-1/lc-voting/pull/10) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
-2. 🎉 Merged PR [#9](https://github.com/vasu-1/lc-voting/pull/9) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
-3. 🎉 Merged PR [#8](https://github.com/vasu-1/lc-voting/pull/8) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
-4. 🎉 Merged PR [#2](https://github.com/vasu-1/duhacks/pull/2) in [vasu-1/duhacks](https://github.com/vasu-1/duhacks)
-5. 🎉 Merged PR [#6](https://github.com/developer-student-clubs/duhacks/pull/6) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
-6. 💪 Opened PR [#6](https://github.com/developer-student-clubs/duhacks/pull/6) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+1. 🎉 Merged PR [#7](https://github.com/developer-student-clubs/duhacks/pull/7) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+2. 💪 Opened PR [#7](https://github.com/developer-student-clubs/duhacks/pull/7) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+3. 🎉 Merged PR [#10](https://github.com/vasu-1/lc-voting/pull/10) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
+4. 🎉 Merged PR [#9](https://github.com/vasu-1/lc-voting/pull/9) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
+5. 🎉 Merged PR [#8](https://github.com/vasu-1/lc-voting/pull/8) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
+6. 🎉 Merged PR [#2](https://github.com/vasu-1/duhacks/pull/2) in [vasu-1/duhacks](https://github.com/vasu-1/duhacks)
 <!--END_SECTION:activity-->
 
 </details>
