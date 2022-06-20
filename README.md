@@ -7,10 +7,10 @@
 <details>
   <summary> <b> 🏃 Current Status </b></summary>
   
-- 🔭 Looking for an internship in Software Development.
+- 🔭 Looking for an internship in Software Development or Blockchain.
 - 🌱 Like to work with New People🧑‍🤝‍🧑.
 - 👯 I’m mainly into Data structures and algorithms.
-- 🖥️ currently learning Web Development & Application Development.
+- 🖥️ currently learning Blockchain & App Development.
 </details>
 
 <details>
