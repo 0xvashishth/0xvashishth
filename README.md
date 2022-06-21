@@ -45,7 +45,7 @@
 [<img alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/VashishthPatel_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FsachanAK6121&screen_name=VashishthPatel_)
 
-  </details>
+ </details>
 
 <details>
   <summary> <b> 👨‍💻 Follow Me On Tech Platforms </b></summary>
@@ -126,7 +126,6 @@
 <summary> <b> 🌐 Website Performance </b></summary>
 <img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </details>
-
 
 [website]: https://vasu-1.github.io/
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
