@@ -11,6 +11,7 @@
 - 🌱 Like to work with New People🧑‍🤝‍🧑.
 - 👯 I’m mainly into Data structures and algorithms.
 - 🖥️ currently learning Blockchain & App Development.
+  
 </details>
 
 <details>
