@@ -108,12 +108,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/vasu-1/duhacks/pull/6) in [vasu-1/duhacks](https://github.com/vasu-1/duhacks)
-2. ❗️ Closed issue [#350](https://github.com/vasu-1/CalcHub/issues/350) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 🎉 Merged PR [#360](https://github.com/vasu-1/CalcHub/pull/360) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🗣 Commented on [#360](https://github.com/vasu-1/CalcHub/issues/360) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. 🎉 Merged PR [#5](https://github.com/vasu-1/duhacks/pull/5) in [vasu-1/duhacks](https://github.com/vasu-1/duhacks)
-6. 🎉 Merged PR [#10](https://github.com/developer-student-clubs/duhacks/pull/10) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+1. 💪 Opened PR [#1](https://github.com/vivek201102/resume-builder/pull/1) in [vivek201102/resume-builder](https://github.com/vivek201102/resume-builder)
+2. 🎉 Merged PR [#6](https://github.com/vasu-1/duhacks/pull/6) in [vasu-1/duhacks](https://github.com/vasu-1/duhacks)
+3. ❗️ Closed issue [#350](https://github.com/vasu-1/CalcHub/issues/350) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. 🎉 Merged PR [#360](https://github.com/vasu-1/CalcHub/pull/360) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. 🗣 Commented on [#360](https://github.com/vasu-1/CalcHub/issues/360) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 🎉 Merged PR [#5](https://github.com/vasu-1/duhacks/pull/5) in [vasu-1/duhacks](https://github.com/vasu-1/duhacks)
 <!--END_SECTION:activity-->
 
 </details>
