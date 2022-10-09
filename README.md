@@ -108,12 +108,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#361](https://github.com/vasu-1/CalcHub/issues/361) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. 🎉 Merged PR [#362](https://github.com/vasu-1/CalcHub/pull/362) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 🗣 Commented on [#362](https://github.com/vasu-1/CalcHub/issues/362) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🗣 Commented on [#4127](https://github.com/appwrite/appwrite/issues/4127) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 🗣 Commented on [#4160](https://github.com/appwrite/appwrite/issues/4160) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-6. 💪 Opened PR [#1](https://github.com/vivek201102/resume-builder/pull/1) in [vivek201102/resume-builder](https://github.com/vivek201102/resume-builder)
+1. 🗣 Commented on [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❗️ Opened issue [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🎉 Merged PR [#364](https://github.com/vasu-1/CalcHub/pull/364) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❗️ Closed issue [#363](https://github.com/vasu-1/CalcHub/issues/363) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. ❗️ Closed issue [#361](https://github.com/vasu-1/CalcHub/issues/361) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 🎉 Merged PR [#362](https://github.com/vasu-1/CalcHub/pull/362) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
