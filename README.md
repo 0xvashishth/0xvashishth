@@ -108,12 +108,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. ❗️ Closed issue [#21](https://github.com/developer-student-clubs/dev-resources/issues/21) in [developer-student-clubs/dev-resources](https://github.com/developer-student-clubs/dev-resources)
-3. 🎉 Merged PR [#22](https://github.com/developer-student-clubs/dev-resources/pull/22) in [developer-student-clubs/dev-resources](https://github.com/developer-student-clubs/dev-resources)
-4. 💪 Opened PR [#7900](https://github.com/EbookFoundation/free-programming-books/pull/7900) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+1. 🗣 Commented on [#367](https://github.com/vasu-1/CalcHub/issues/367) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❗️ Opened issue [#367](https://github.com/vasu-1/CalcHub/issues/367) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🗣 Commented on [#366](https://github.com/vasu-1/CalcHub/issues/366) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❗️ Opened issue [#366](https://github.com/vasu-1/CalcHub/issues/366) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 5. 🗣 Commented on [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. ❗️ Opened issue [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. ❗️ Closed issue [#21](https://github.com/developer-student-clubs/dev-resources/issues/21) in [developer-student-clubs/dev-resources](https://github.com/developer-student-clubs/dev-resources)
 <!--END_SECTION:activity-->
 
 </details>
