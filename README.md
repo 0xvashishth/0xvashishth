@@ -108,12 +108,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8126](https://github.com/EbookFoundation/free-programming-books/pull/8126) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-2. 🗣 Commented on [#367](https://github.com/vasu-1/CalcHub/issues/367) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. ❗️ Opened issue [#367](https://github.com/vasu-1/CalcHub/issues/367) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🗣 Commented on [#366](https://github.com/vasu-1/CalcHub/issues/366) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. ❗️ Opened issue [#366](https://github.com/vasu-1/CalcHub/issues/366) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 🗣 Commented on [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. 🎉 Merged PR [#368](https://github.com/vasu-1/CalcHub/pull/368) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. 💪 Opened PR [#368](https://github.com/vasu-1/CalcHub/pull/368) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 💪 Opened PR [#8126](https://github.com/EbookFoundation/free-programming-books/pull/8126) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+4. 🗣 Commented on [#367](https://github.com/vasu-1/CalcHub/issues/367) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. ❗️ Opened issue [#367](https://github.com/vasu-1/CalcHub/issues/367) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 🗣 Commented on [#366](https://github.com/vasu-1/CalcHub/issues/366) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
