@@ -108,12 +108,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/developer-student-clubs/dev-resources/pull/23) in [developer-student-clubs/dev-resources](https://github.com/developer-student-clubs/dev-resources)
-2. ❗️ Closed issue [#366](https://github.com/vasu-1/CalcHub/issues/366) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 🎉 Merged PR [#370](https://github.com/vasu-1/CalcHub/pull/370) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 💪 Opened PR [#370](https://github.com/vasu-1/CalcHub/pull/370) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. ❗️ Closed issue [#367](https://github.com/vasu-1/CalcHub/issues/367) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 🎉 Merged PR [#369](https://github.com/vasu-1/CalcHub/pull/369) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. ❌ Closed PR [#371](https://github.com/vasu-1/CalcHub/pull/371) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. 🗣 Commented on [#371](https://github.com/vasu-1/CalcHub/issues/371) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. ❌ Closed PR [#372](https://github.com/vasu-1/CalcHub/pull/372) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. 🗣 Commented on [#372](https://github.com/vasu-1/CalcHub/issues/372) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. 🎉 Merged PR [#23](https://github.com/developer-student-clubs/dev-resources/pull/23) in [developer-student-clubs/dev-resources](https://github.com/developer-student-clubs/dev-resources)
+6. ❗️ Closed issue [#366](https://github.com/vasu-1/CalcHub/issues/366) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
