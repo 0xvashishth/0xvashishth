@@ -108,12 +108,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#377](https://github.com/vasu-1/CalcHub/pull/377) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. 🎉 Merged PR [#376](https://github.com/vasu-1/CalcHub/pull/376) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 🎉 Merged PR [#375](https://github.com/vasu-1/CalcHub/pull/375) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🎉 Merged PR [#374](https://github.com/vasu-1/CalcHub/pull/374) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. ❌ Closed PR [#371](https://github.com/vasu-1/CalcHub/pull/371) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 🗣 Commented on [#371](https://github.com/vasu-1/CalcHub/issues/371) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. 🗣 Commented on [#21](https://github.com/developer-student-clubs/resume-builder/issues/21) in [developer-student-clubs/resume-builder](https://github.com/developer-student-clubs/resume-builder)
+2. 🎉 Merged PR [#23](https://github.com/developer-student-clubs/resume-builder/pull/23) in [developer-student-clubs/resume-builder](https://github.com/developer-student-clubs/resume-builder)
+3. ❌ Closed PR [#36](https://github.com/developer-student-clubs/npmBox/pull/36) in [developer-student-clubs/npmBox](https://github.com/developer-student-clubs/npmBox)
+4. 🎉 Merged PR [#378](https://github.com/vasu-1/CalcHub/pull/378) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. 🎉 Merged PR [#72](https://github.com/developer-student-clubs/npmBox/pull/72) in [developer-student-clubs/npmBox](https://github.com/developer-student-clubs/npmBox)
+6. 🎉 Merged PR [#377](https://github.com/vasu-1/CalcHub/pull/377) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
