@@ -108,12 +108,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#381](https://github.com/vasu-1/CalcHub/pull/381) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. ❗️ Opened issue [#4815](https://github.com/appwrite/appwrite/issues/4815) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-3. 🎉 Merged PR [#380](https://github.com/vasu-1/CalcHub/pull/380) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🗣 Commented on [#21](https://github.com/developer-student-clubs/resume-builder/issues/21) in [developer-student-clubs/resume-builder](https://github.com/developer-student-clubs/resume-builder)
-5. 🎉 Merged PR [#23](https://github.com/developer-student-clubs/resume-builder/pull/23) in [developer-student-clubs/resume-builder](https://github.com/developer-student-clubs/resume-builder)
-6. ❌ Closed PR [#36](https://github.com/developer-student-clubs/npmBox/pull/36) in [developer-student-clubs/npmBox](https://github.com/developer-student-clubs/npmBox)
+1. 🎉 Merged PR [#11](https://github.com/developer-student-clubs/duhacks/pull/11) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+2. 💪 Opened PR [#11](https://github.com/developer-student-clubs/duhacks/pull/11) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+3. 🎉 Merged PR [#381](https://github.com/vasu-1/CalcHub/pull/381) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❗️ Opened issue [#4815](https://github.com/appwrite/appwrite/issues/4815) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. 🎉 Merged PR [#380](https://github.com/vasu-1/CalcHub/pull/380) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 🗣 Commented on [#21](https://github.com/developer-student-clubs/resume-builder/issues/21) in [developer-student-clubs/resume-builder](https://github.com/developer-student-clubs/resume-builder)
 <!--END_SECTION:activity-->
 
 </details>
