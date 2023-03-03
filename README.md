@@ -1,57 +1,53 @@
-## Hi there, I'm Vashishth Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
+<h1 align="center"> :wave: Hi, I'm Vashishth</h1>
 
-[![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://vasu-1.github.io/)
-[![Linkedin Follow](https://shields.io/badge/Follow%20@Vashishth%20Patel-1594-green?logo=linkedin&style=for-the-badge )](https://www.linkedin.com/in/vashishth-patel-312a52204/)
-![](https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge)
+<p align="center">
+  <a href="https://vasu-1.github.io/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vashishth-patel-312a52204/">
+    <img src="https://img.shields.io/badge/VashishthPatel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a/>
+  <a href="https://twitter.com/VashishthPatel_">
+    <img src="https://img.shields.io/badge/@VashishthPatel_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g">
+    <img src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/people/Vashishth-Patel/100071806075318/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
+</p>
 
-<details>
-  <summary> <b> 🏃 Current Status </b></summary>
-  
-- 🔭 Looking for an internship in Software Development or Blockchain.
-- 🌱 Like to work with New People🧑‍🤝‍🧑.
-- 👯 I’m mainly into Data structures and algorithms.
-- 🖥️ currently learning Blockchain & App Development.
-  
-</details>
 
-<details>
-  <summary> <b> 📊 GitHub stats </b></summary>
+---
+
+- 🎓 Pre Final Year student at DDIT, Nadiad
+- 👩‍💻 Full Stack Web Developer at Acowale
+- ☀️ Project Admin at GirlScript Summer Of Code
+- ☀️ Ex. Replit Rep
+- ☀️ Technical Lead at Google Developer Student Clibs, DDU
+- 🛠 Proficient with APIs, Nodejs, Web Development and .NET Desktop Development
+- 🌱 Currently learning more about Machine Learning and Blockchain
+- 👯 Looking to collaborate on Blockchain projects
+- 💬 Besides programming, I also love watching space and real story Movies.
+- 🌐 Check out my website https://vasu-1.github.io/
+- 📫 Shoot me a mail at `20ceubg080[AT]ddu[DOT]ac[DOT]in`
+
+---
 
 <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px" >
+      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-light&hide_border=true" width="400px" height="180px" >
     </td>
     <td align="center">
-        <img src ="https://github-readme-streak-stats.herokuapp.com?user=vasu-1&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px">
+        <img src ="https://github-readme-streak-stats.herokuapp.com?user=vasu-1&theme=vision-friendly-light&hide_border=true" width="400px" height="180px">
     </td>
   </tr>
 </table>
-</details>
 
-<details>
-  <summary> <b> 🔗 Connect With Me </b></summary>
+---
 
-[<img alt="vasu-1.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
-[<img alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img alt="vashishth | Facebook"  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
-[<img alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-[![Twitter Follow](https://img.shields.io/twitter/follow/VashishthPatel_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FsachanAK6121&screen_name=VashishthPatel_)
-
- </details>
-
-<details>
-  <summary> <b> 👨‍💻 Follow Me On Tech Platforms </b></summary>
-
-[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whiteg"/>][hackerrank]
-[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>][codechef]
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>][leetcode]
-[<img src="https://img.shields.io/badge/-Askubuntu-FE7A16?style=for-the-badge&logo=ask-ubuntu&logoColor=white" alt="askubuntu"/>][askubuntu]
-[<img src="https://img.shields.io/badge/-Qwicklabs-F9DC3e?style=for-the-badge&logo=qwiklabs&logoColor=white" alt="qwicklabs"/>][qwicklabs]
-[<img src="https://img.shields.io/badge/-Devfolio-0078D7?style=for-the-badge&logo=devfolio&logoColor=white" alt="devfolio"/>][devfolio]
-
-</details>
-  
 <details>
   <summary> <b> 💻 Competencies </b></summary>
 
@@ -92,7 +88,7 @@
 <details>
 <summary> <b> :zap: Github 3D Activity </b></summary>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
   
 </details>
 
@@ -112,13 +108,19 @@
 
 <details>
 <summary> <b> 🏆 GitHub Achievements </b></summary>
-<img src="https://github-profile-trophy.vercel.app/?username=vasu-1&theme=monokai">
+<img src="https://github-profile-trophy.vercel.app/?username=vasu-1&theme=vision-friendly-light">
 </details>
 
-<details>
+<!-- <details>
 <summary> <b> 🌐 Website Performance </b></summary>
 <img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
-</details>
+</details> -->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge" alt="">
+</p>
 
 [website]: https://vasu-1.github.io/
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
