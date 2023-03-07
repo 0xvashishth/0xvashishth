@@ -96,12 +96,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/j-imy/test_repo/issues/24) in [j-imy/test_repo](https://github.com/j-imy/test_repo)
-2. 🗣 Commented on [#24](https://github.com/j-imy/test_repo/issues/24) in [j-imy/test_repo](https://github.com/j-imy/test_repo)
-3. 🗣 Commented on [#24](https://github.com/j-imy/test_repo/issues/24) in [j-imy/test_repo](https://github.com/j-imy/test_repo)
-4. ❗️ Opened issue [#24](https://github.com/j-imy/test_repo/issues/24) in [j-imy/test_repo](https://github.com/j-imy/test_repo)
-5. 🗣 Commented on [#23](https://github.com/j-imy/test_repo/issues/23) in [j-imy/test_repo](https://github.com/j-imy/test_repo)
-6. 🎉 Merged PR [#1](https://github.com/vasu-1/vasu-1.github.io/pull/1) in [vasu-1/vasu-1.github.io](https://github.com/vasu-1/vasu-1.github.io)
+1. 🎉 Merged PR [#3](https://github.com/vasu-1/mern-starter/pull/3) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+2. 💪 Opened PR [#3](https://github.com/vasu-1/mern-starter/pull/3) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+3. 💪 Opened PR [#2](https://github.com/vasu-1/mern-starter/pull/2) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+4. 🎉 Merged PR [#1](https://github.com/vasu-1/mern-starter/pull/1) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+5. 💪 Opened PR [#1](https://github.com/vasu-1/mern-starter/pull/1) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+6. 🗣 Commented on [#24](https://github.com/j-imy/test_repo/issues/24) in [j-imy/test_repo](https://github.com/j-imy/test_repo)
 <!--END_SECTION:activity-->
 
 </details>
