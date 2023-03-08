@@ -96,12 +96,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/vasu-1/mern-starter/pull/4) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
-2. 🎉 Merged PR [#2](https://github.com/vasu-1/mern-starter/pull/2) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
-3. 🎉 Merged PR [#1](https://github.com/vasu-1/dec-todo/pull/1) in [vasu-1/dec-todo](https://github.com/vasu-1/dec-todo)
-4. 🎉 Merged PR [#3](https://github.com/vasu-1/mern-starter/pull/3) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
-5. 💪 Opened PR [#3](https://github.com/vasu-1/mern-starter/pull/3) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
-6. 💪 Opened PR [#2](https://github.com/vasu-1/mern-starter/pull/2) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+1. 💪 Opened PR [#11](https://github.com/vasu-1/lc-voting/pull/11) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
+2. 🎉 Merged PR [#4](https://github.com/vasu-1/mern-starter/pull/4) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+3. 🎉 Merged PR [#2](https://github.com/vasu-1/mern-starter/pull/2) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+4. 🎉 Merged PR [#1](https://github.com/vasu-1/dec-todo/pull/1) in [vasu-1/dec-todo](https://github.com/vasu-1/dec-todo)
+5. 🎉 Merged PR [#3](https://github.com/vasu-1/mern-starter/pull/3) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+6. 💪 Opened PR [#3](https://github.com/vasu-1/mern-starter/pull/3) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
 <!--END_SECTION:activity-->
 
 </details>
