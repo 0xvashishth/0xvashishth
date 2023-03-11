@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://vasu-1.github.io/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/website-ff4d4d?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/vashishth-patel-312a52204/">
     <img src="https://img.shields.io/badge/VashishthPatel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -26,7 +26,8 @@
 - ☀️ Project Admin at GirlScript Summer Of Code
 - ☀️ Ex. Replit Rep
 - ☀️ Technical Lead at Google Developer Student Clibs, DDU
-- 🛠 Proficient with APIs, Nodejs, Web Development and .NET Desktop Development
+- 🥇 Won more than 3 Hackathons
+- 🛠  Proficient with APIs, Nodejs, Web Development and .NET Desktop Development
 - 🌱 Currently learning more about Machine Learning and Blockchain
 - 👯 Looking to collaborate on Blockchain projects
 - 💬 Besides programming, I also love watching space and real story Movies.
