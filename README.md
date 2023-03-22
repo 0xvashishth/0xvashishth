@@ -23,10 +23,11 @@
 
 - 🎓 Pre Final Year student at DDIT, Nadiad
 - 👩‍💻 Backend Developer at Simulas
-- 👩‍💻 Ex. Full Stack Web Developer at Acowale
-- ☀️ Project Admin at GirlScript Summer Of Code
-- ☀️ Ex. Replit Rep
 - ☀️ Technical Lead at Google Developer Student Clibs, DDU
+- ☀️ Ex. Full Stack Web Developer at Acowale
+- ☀️ Ex. Project Admin at GirlScript Summer Of Code
+- ☀️ Ex. Mentor at GirlScript Winter Of Contributing
+- ☀️ Ex. Replit Rep
 - 🥇 Won more than 3 Hackathons
 - 🛠  Proficient with APIs, Nodejs, Web Development and .NET Desktop Development
 - 🌱 Currently learning more about Machine Learning and Blockchain
