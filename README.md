@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/vasu-1/hacksplan/pull/3) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
-2. 🎉 Merged PR [#2](https://github.com/vasu-1/hacksplan/pull/2) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
-3. 💪 Opened PR [#2](https://github.com/vasu-1/hacksplan/pull/2) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
-4. 🎉 Merged PR [#1](https://github.com/vasu-1/hacksplan/pull/1) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
-5. 💪 Opened PR [#1](https://github.com/vasu-1/hacksplan/pull/1) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
-6. 💪 Opened PR [#11](https://github.com/vasu-1/lc-voting/pull/11) in [vasu-1/lc-voting](https://github.com/vasu-1/lc-voting)
+1. 🗣 Commented on [#1](https://github.com/Kakadiya-Harshal/Used-book-Seller-with-Book_Recommendation/issues/1) in [Kakadiya-Harshal/Used-book-Seller-with-Book_Recommendation](https://github.com/Kakadiya-Harshal/Used-book-Seller-with-Book_Recommendation)
+2. 🎉 Merged PR [#3](https://github.com/vasu-1/hacksplan/pull/3) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
+3. 🎉 Merged PR [#2](https://github.com/vasu-1/hacksplan/pull/2) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
+4. 💪 Opened PR [#2](https://github.com/vasu-1/hacksplan/pull/2) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
+5. 🎉 Merged PR [#1](https://github.com/vasu-1/hacksplan/pull/1) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
+6. 💪 Opened PR [#1](https://github.com/vasu-1/hacksplan/pull/1) in [vasu-1/hacksplan](https://github.com/vasu-1/hacksplan)
 <!--END_SECTION:activity-->
 
 </details>
