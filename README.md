@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/9) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
-2. 💪 Opened PR [#9](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/9) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
-3. 🎉 Merged PR [#8](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/8) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
-4. 💪 Opened PR [#8](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/8) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
-5. 🎉 Merged PR [#7](https://github.com/PRINCE-DHAMECHA/botflow/pull/7) in [PRINCE-DHAMECHA/botflow](https://github.com/PRINCE-DHAMECHA/botflow)
-6. 💪 Opened PR [#7](https://github.com/PRINCE-DHAMECHA/botflow/pull/7) in [PRINCE-DHAMECHA/botflow](https://github.com/PRINCE-DHAMECHA/botflow)
+1. 🗣 Commented on [#2](https://github.com/vasu-1/vasu-1/issues/2) in [vasu-1/vasu-1](https://github.com/vasu-1/vasu-1)
+2. ❗️ Opened issue [#2](https://github.com/vasu-1/vasu-1/issues/2) in [vasu-1/vasu-1](https://github.com/vasu-1/vasu-1)
+3. 🎉 Merged PR [#9](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/9) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
+4. 💪 Opened PR [#9](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/9) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
+5. 🎉 Merged PR [#8](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/8) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
+6. 💪 Opened PR [#8](https://github.com/PRINCE-DHAMECHA/Gitty-Bot/pull/8) in [PRINCE-DHAMECHA/Gitty-Bot](https://github.com/PRINCE-DHAMECHA/Gitty-Bot)
 <!--END_SECTION:activity-->
 
 </details>
