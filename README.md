@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/vasu-1/VendorVortex/issues/1) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
-2. 🎉 Merged PR [#1](https://github.com/vasu-1/VendorVortex/pull/1) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+1. 🎉 Merged PR [#2](https://github.com/vasu-1/VendorVortex/pull/2) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+2. 🗣 Commented on [#2](https://github.com/vasu-1/VendorVortex/issues/2) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
 3. 🗣 Commented on [#1](https://github.com/vasu-1/VendorVortex/issues/1) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
-4. 🗣 Commented on [#344](https://github.com/vasu-1/CalcHub/issues/344) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. 🎉 Merged PR [#13](https://github.com/developer-student-clubs/duhacks/pull/13) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
-6. 💪 Opened PR [#13](https://github.com/developer-student-clubs/duhacks/pull/13) in [developer-student-clubs/duhacks](https://github.com/developer-student-clubs/duhacks)
+4. 🎉 Merged PR [#1](https://github.com/vasu-1/VendorVortex/pull/1) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+5. 🗣 Commented on [#1](https://github.com/vasu-1/VendorVortex/issues/1) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+6. 🗣 Commented on [#344](https://github.com/vasu-1/CalcHub/issues/344) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
