@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/vasu-1/VendorVortex/pull/8) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
-2. 🎉 Merged PR [#7](https://github.com/vasu-1/VendorVortex/pull/7) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
-3. 🎉 Merged PR [#6](https://github.com/vasu-1/VendorVortex/pull/6) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
-4. 🗣 Commented on [#6](https://github.com/vasu-1/VendorVortex/issues/6) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
-5. 🎉 Merged PR [#5](https://github.com/vasu-1/VendorVortex/pull/5) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
-6. 🗣 Commented on [#5](https://github.com/vasu-1/VendorVortex/issues/5) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+1. ❗️ Closed issue [#344](https://github.com/vasu-1/CalcHub/issues/344) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. 🎉 Merged PR [#382](https://github.com/vasu-1/CalcHub/pull/382) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🎉 Merged PR [#8](https://github.com/vasu-1/VendorVortex/pull/8) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+4. 🎉 Merged PR [#7](https://github.com/vasu-1/VendorVortex/pull/7) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+5. 🎉 Merged PR [#6](https://github.com/vasu-1/VendorVortex/pull/6) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+6. 🗣 Commented on [#6](https://github.com/vasu-1/VendorVortex/issues/6) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
 <!--END_SECTION:activity-->
 
 </details>
