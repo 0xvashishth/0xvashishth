@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#520](https://github.com/kunjgit/GameZone/pull/520) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
-2. 🗣 Commented on [#519](https://github.com/kunjgit/GameZone/issues/519) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
-3. ❗ Opened issue [#519](https://github.com/kunjgit/GameZone/issues/519) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
-4. 🔒 Closed issue [#344](https://github.com/vasu-1/CalcHub/issues/344) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. 🎉 Merged PR [#382](https://github.com/vasu-1/CalcHub/pull/382) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 🎉 Merged PR [#8](https://github.com/vasu-1/VendorVortex/pull/8) in [vasu-1/VendorVortex](https://github.com/vasu-1/VendorVortex)
+1. 🎉 Merged PR [#384](https://github.com/vasu-1/CalcHub/pull/384) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. 💪 Opened PR [#520](https://github.com/kunjgit/GameZone/pull/520) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
+3. 🗣 Commented on [#519](https://github.com/kunjgit/GameZone/issues/519) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
+4. ❗ Opened issue [#519](https://github.com/kunjgit/GameZone/issues/519) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
+5. 🔒 Closed issue [#344](https://github.com/vasu-1/CalcHub/issues/344) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 🎉 Merged PR [#382](https://github.com/vasu-1/CalcHub/pull/382) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
