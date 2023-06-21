@@ -102,9 +102,9 @@
 1. 🗣 Commented on [#6099](https://github.com/amplication/amplication/issues/6099) in [amplication/amplication](https://github.com/amplication/amplication)
 2. 🗣 Commented on [#6099](https://github.com/amplication/amplication/issues/6099) in [amplication/amplication](https://github.com/amplication/amplication)
 3. 🗣 Commented on [#6099](https://github.com/amplication/amplication/issues/6099) in [amplication/amplication](https://github.com/amplication/amplication)
-4. 🎉 Merged PR [#384](https://github.com/vasu-1/CalcHub/pull/384) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. 💪 Opened PR [#520](https://github.com/kunjgit/GameZone/pull/520) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
-6. 🗣 Commented on [#519](https://github.com/kunjgit/GameZone/issues/519) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
+4. 🗣 Commented on [#6099](https://github.com/amplication/amplication/issues/6099) in [amplication/amplication](https://github.com/amplication/amplication)
+5. 🎉 Merged PR [#384](https://github.com/vasu-1/CalcHub/pull/384) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 💪 Opened PR [#520](https://github.com/kunjgit/GameZone/pull/520) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
 <!--END_SECTION:activity-->
 
 </details>
