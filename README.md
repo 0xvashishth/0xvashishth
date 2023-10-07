@@ -99,10 +99,10 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. 🎉 Merged PR [#385](https://github.com/vasu-1/CalcHub/pull/385) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1742762353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 🗣 Commented on [#6099](https://github.com/amplication/amplication/issues/6099#issuecomment-1601096627) in [amplication/amplication](https://github.com/amplication/amplication)
+1. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1751800285) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🔒 Closed issue [#365](https://github.com/vasu-1/CalcHub/issues/365) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🎉 Merged PR [#385](https://github.com/vasu-1/CalcHub/pull/385) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1742762353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 5. 🗣 Commented on [#6099](https://github.com/amplication/amplication/issues/6099#issuecomment-1600988326) in [amplication/amplication](https://github.com/amplication/amplication)
 6. 🗣 Commented on [#6099](https://github.com/amplication/amplication/issues/6099#issuecomment-1599198288) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
