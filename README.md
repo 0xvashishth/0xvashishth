@@ -21,7 +21,7 @@
 
 ---
 
-- 🎓 Pre Final Year student at DDIT, Nadiad
+- 🎓 Final Year student at DDIT, Nadiad
 - 👩‍💻 Backend Developer at Simulas
 - ☀️ Technical Lead at Google Developer Student Clibs, DDU
 - ☀️ Ex. Full Stack Web Developer at Acowale
