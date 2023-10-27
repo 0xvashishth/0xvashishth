@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1770793504) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🎉 Merged PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 💪 Opened PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🔒 Closed issue [#386](https://github.com/vasu-1/CalcHub/issues/386) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. 🎉 Merged PR [#387](https://github.com/vasu-1/CalcHub/pull/387) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1751800285) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 💪 Opened PR [#5](https://github.com/vasu-1/mern-starter/pull/5) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+2. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1770793504) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 🎉 Merged PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. 💪 Opened PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. 🔒 Closed issue [#386](https://github.com/vasu-1/CalcHub/issues/386) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 🎉 Merged PR [#387](https://github.com/vasu-1/CalcHub/pull/387) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
