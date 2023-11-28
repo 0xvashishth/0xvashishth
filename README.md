@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/vasu-1/mern-starter/pull/6) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
-2. 💪 Opened PR [#5](https://github.com/vasu-1/mern-starter/pull/5) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
-3. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1770793504) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 🎉 Merged PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-5. 💪 Opened PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 🔒 Closed issue [#386](https://github.com/vasu-1/CalcHub/issues/386) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. 💪 Opened PR [#8](https://github.com/vasu-1/dec-todo/pull/8) in [vasu-1/dec-todo](https://github.com/vasu-1/dec-todo)
+2. 💪 Opened PR [#6](https://github.com/vasu-1/mern-starter/pull/6) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+3. 💪 Opened PR [#5](https://github.com/vasu-1/mern-starter/pull/5) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+4. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1770793504) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. 🎉 Merged PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 💪 Opened PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
