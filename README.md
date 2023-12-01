@@ -122,7 +122,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xvashishth&style=for-the-badge" alt="">
+  <img src="https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge" alt="">
 </p>
 
 [website]: https://0xvashishth.github.io/
