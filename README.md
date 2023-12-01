@@ -1,14 +1,14 @@
 <h1 align="center"> :wave: Hi, I'm Vashishth</h1>
 
 <p align="center">
-  <a href="https://vasu-1.github.io/">
+  <a href="https://0xvashishth.github.io/">
     <img src="https://img.shields.io/badge/website-ff4d4d?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/vashishth-patel-312a52204/">
+  <a href="https://www.linkedin.com/in/0xvashishth/">
     <img src="https://img.shields.io/badge/VashishthPatel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
-  <a href="https://twitter.com/VashishthPatel_">
-    <img src="https://img.shields.io/badge/@VashishthPatel_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://twitter.com/0xvashishth">
+    <img src="https://img.shields.io/badge/@0xvashishth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g">
     <img src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
@@ -33,7 +33,7 @@
 - 🌱 Currently learning more about Machine Learning and Blockchain
 - 👯 Looking to collaborate on Blockchain projects
 - 💬 Besides programming, I also love watching space and real story Movies.
-- 🌐 Check out my website https://vasu-1.github.io/
+- 🌐 Check out my website https://0xvashishth.github.io/
 - 📫 Shoot me a mail at `20ceubg080[AT]ddu[DOT]ac[DOT]in`
 
 ---
@@ -41,10 +41,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-light&hide_border=true" width="400px" height="180px" >
+      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=0xvashishth&show_icons=true&theme=vision-friendly-light&hide_border=true" width="400px" height="180px" >
     </td>
     <td align="center">
-        <img src ="https://github-readme-streak-stats.herokuapp.com?user=vasu-1&theme=vision-friendly-light&hide_border=true" width="400px" height="180px">
+        <img src ="https://github-readme-streak-stats.herokuapp.com?user=0xvashishth&theme=vision-friendly-light&hide_border=true" width="400px" height="180px">
     </td>
   </tr>
 </table>
@@ -99,41 +99,41 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/vasu-1/dec-todo/pull/8) in [vasu-1/dec-todo](https://github.com/vasu-1/dec-todo)
-2. 💪 Opened PR [#6](https://github.com/vasu-1/mern-starter/pull/6) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
-3. 💪 Opened PR [#5](https://github.com/vasu-1/mern-starter/pull/5) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+1. 💪 Opened PR [#8](https://github.com/0xvashishth/dec-todo/pull/8) in [0xvashishth/dec-todo](https://github.com/0xvashishth/dec-todo)
+2. 💪 Opened PR [#6](https://github.com/0xvashishth/mern-starter/pull/6) in [0xvashishth/mern-starter](https://github.com/0xvashishth/mern-starter)
+3. 💪 Opened PR [#5](https://github.com/0xvashishth/mern-starter/pull/5) in [0xvashishth/mern-starter](https://github.com/0xvashishth/mern-starter)
 4. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1770793504) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 🎉 Merged PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-6. 💪 Opened PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+5. 🎉 Merged PR [#388](https://github.com/0xvashishth/CalcHub/pull/388) in [0xvashishth/CalcHub](https://github.com/0xvashishth/CalcHub)
+6. 💪 Opened PR [#388](https://github.com/0xvashishth/CalcHub/pull/388) in [0xvashishth/CalcHub](https://github.com/0xvashishth/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
 <summary> <b> 🏆 GitHub Achievements </b></summary>
-<img src="https://github-profile-trophy.vercel.app/?username=vasu-1&theme=vision-friendly-light">
+<img src="https://github-profile-trophy.vercel.app/?username=0xvashishth&theme=vision-friendly-light">
 </details>
 
 <!-- <details>
 <summary> <b> 🌐 Website Performance </b></summary>
-<img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
+<img src="https://metrics.lecoq.io/0xvashishth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </details> -->
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge" alt="">
+  <img src="https://komarev.com/ghpvc/?username=0xvashishth&style=for-the-badge" alt="">
 </p>
 
-[website]: https://vasu-1.github.io/
+[website]: https://0xvashishth.github.io/
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
 [youtube]: https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g
-[instagram]: https://www.instagram.com/vashishthchaudhary/
-[linkedin]: https://www.linkedin.com/in/vashishth-patel-312a52204/
+[instagram]: https://www.instagram.com/0xvashishth/
+[linkedin]: https://www.linkedin.com/in/0xvashishth/
 [askubuntu]: https://askubuntu.com/users/1357742/vashishth-patel
 [codechef]: https://www.codechef.com/users/vashishth48
-[hackerrank]: https://www.hackerrank.com/vashishthchaudh1
-[github]: https://www.github.com/vasu-1
+[hackerrank]: https://www.hackerrank.com/vashishth
+[github]: https://www.github.com/0xvashishth
 [qwicklabs]: https://www.cloudskillsboost.google/public_profiles/bf321214-af50-491e-a010-8fed8cb3d177
-[devfolio]: https://devfolio.co/@vashisht
-[leetcode]: https://leetcode.com/vashishthchaudhary48/
+[devfolio]: https://devfolio.co/@0xvashishth
+[leetcode]: https://leetcode.com/0xvashishth/
