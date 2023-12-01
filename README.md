@@ -99,12 +99,12 @@
 <summary> <b> :zap: Recent Activity </b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/0xvashishth/dec-todo/pull/8) in [0xvashishth/dec-todo](https://github.com/0xvashishth/dec-todo)
-2. 💪 Opened PR [#6](https://github.com/0xvashishth/mern-starter/pull/6) in [0xvashishth/mern-starter](https://github.com/0xvashishth/mern-starter)
-3. 💪 Opened PR [#5](https://github.com/0xvashishth/mern-starter/pull/5) in [0xvashishth/mern-starter](https://github.com/0xvashishth/mern-starter)
+1. 💪 Opened PR [#8](https://github.com/vasu-1/dec-todo/pull/8) in [vasu-1/dec-todo](https://github.com/vasu-1/dec-todo)
+2. 💪 Opened PR [#6](https://github.com/vasu-1/mern-starter/pull/6) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
+3. 💪 Opened PR [#5](https://github.com/vasu-1/mern-starter/pull/5) in [vasu-1/mern-starter](https://github.com/vasu-1/mern-starter)
 4. 🗣 Commented on [#4001](https://github.com/appwrite/appwrite/issues/4001#issuecomment-1770793504) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 🎉 Merged PR [#388](https://github.com/0xvashishth/CalcHub/pull/388) in [0xvashishth/CalcHub](https://github.com/0xvashishth/CalcHub)
-6. 💪 Opened PR [#388](https://github.com/0xvashishth/CalcHub/pull/388) in [0xvashishth/CalcHub](https://github.com/0xvashishth/CalcHub)
+5. 🎉 Merged PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+6. 💪 Opened PR [#388](https://github.com/vasu-1/CalcHub/pull/388) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 
 </details>
