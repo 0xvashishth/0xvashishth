@@ -15,10 +15,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge" alt="">
-</p>
-
 [website]: https://0xvashishth.github.io/
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
 [youtube]: https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g
