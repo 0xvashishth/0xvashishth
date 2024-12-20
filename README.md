@@ -2,19 +2,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=0xvashishth&show_icons=true&theme=vision-friendly-light&hide_border=true" width="400px" height="180px" >
-    </td>
-    <td align="center">
-        <img src ="https://github-readme-streak-stats.herokuapp.com?user=0xvashishth&theme=vision-friendly-light&hide_border=true" width="400px" height="180px">
-    </td>
-  </tr>
-</table>
-
----
-
 [website]: https://0xvashishth.github.io/
 [facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
 [youtube]: https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g
